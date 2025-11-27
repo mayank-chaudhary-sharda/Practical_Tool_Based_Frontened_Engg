@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome Page</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+        p {
+            color: darkgray;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Web Development</h1>
+
+    <p>This is the beginning of my journey in web development. I want to learn how websites work and how to build them.</p>
+    
+    <p>By learning HTML, CSS, and JavaScript, I want to create beautiful and interactive websites.</p>
+
+</body>
+</html>
